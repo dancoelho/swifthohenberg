@@ -14,7 +14,7 @@
 #                                                                            #
 #    C.I. Christov and J. Pontes. Numerical scheme for swift-hohenberg       #
 #    equation with strict implementation of lyapunov functional.             #
-#    Mathematical and Computer Modelling, 35, 2002.                          #                                           #
+#    Mathematical and Computer Modelling, 35, 2002.                          #
 #                                                                            #
 # The governing SH3 equation reads:                                          #
 #                                                                            #
